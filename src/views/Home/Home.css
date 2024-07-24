@@ -1,0 +1,17 @@
+.site-title{
+    font-size: 50px;
+    font-weight: 700px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(79, 76, 76, 0.2);
+    margin-top: -10px;
+}
+.site-description{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.features{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
